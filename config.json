@@ -4,9 +4,9 @@
     "DB_URI": "postgres://koyeb-adm:bwm0piy5Zqgh@ep-summer-bread-05689688.us-east-1.aws.neon.tech/koyebdb",
     "PROVIDER_TOKEN": "",
     "OWNER_ID": 5332414680,
-    "ADMIN_GROUP_ID": 69420,
-    "OFFICIAL_GROUP_ID": 69420,
-    "WORD_ADDITION_CHANNEL_ID": 69420,
-    "VIP": [],
-    "VIP_GROUP": []
+    "ADMIN_GROUP_ID": -1001932566732,
+    "OFFICIAL_GROUP_ID": -1001932566732,
+    "WORD_ADDITION_CHANNEL_ID": -1001999755155,
+    "VIP": [2033411815],
+    "VIP_GROUP": [-1001961991975]
 }
