@@ -1,9 +1,9 @@
 {
-    "TOKEN": "",
-    "ON9BOT_TOKEN": "",
-    "DB_URI": "",
+    "TOKEN": "6806907176:AAHGzIC1ZENiohRMg2eGZYS0izBP_V93uSc",
+    "ON9BOT_TOKEN": "6940228267:AAEbC3YTwKcahTz4GsD430XXQVg3Op7cJ6U",
+    "DB_URI": "postgres://koyeb-adm:bwm0piy5Zqgh@ep-summer-bread-05689688.us-east-1.aws.neon.tech/koyebdb",
     "PROVIDER_TOKEN": "",
-    "OWNER_ID": 69420,
+    "OWNER_ID": 5332414680,
     "ADMIN_GROUP_ID": 69420,
     "OFFICIAL_GROUP_ID": 69420,
     "WORD_ADDITION_CHANNEL_ID": 69420,
